@@ -6,6 +6,10 @@
 
 เอกสารข้อเสนอฉบับต้นฉบับ: [CS461_Finalpro.docx](docs/CS461_Finalpro.docx)
 
+ AI Phish Classifier
+[![Open In Colab](https://colab.research.google.com/drive/1jKUwxjd39M6qt14SK29DGoV83ulmVKfV?usp=sharing)]
+
+
 ## ที่มาและความสำคัญ
 
 อีเมลฟิชชิ่งใช้การปลอมตัวและเทคนิค Social Engineering เพื่อหลอกขโมยรหัสผ่าน ข้อมูลบัญชีธนาคาร หรือชักจูงให้ติดตั้งมัลแวร์ รูปแบบภาษาที่ซับซ้อนทำให้ผู้ใช้งานแยกแยะได้ยาก และระบบกรองด้วยกฎหรือคำสำคัญอาจตรวจจับอีเมลรูปแบบใหม่ได้ไม่ครบถ้วน
