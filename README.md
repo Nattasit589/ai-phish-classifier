@@ -6,7 +6,7 @@
 
 เอกสารข้อเสนอฉบับต้นฉบับ: [CS461_Finalpro.docx](docs/CS461_Finalpro.docx)
 
- AI Phish Classifier
+ AI Model Training Phish Classifier: 
 [![Open In Colab](https://colab.research.google.com/drive/1jKUwxjd39M6qt14SK29DGoV83ulmVKfV?usp=sharing)]
 
 
